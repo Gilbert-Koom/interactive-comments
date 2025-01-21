@@ -4,9 +4,9 @@ import Mapper from "./components/app/mapper"
 function App() {
   
   return (
-    <>  
-    <AddComment />
-    <Mapper /> 
+    <>
+      <Mapper />
+      <AddComment /> 
     </>
   )
 }
